@@ -1,1 +1,1 @@
-package net.Exceptions;
+package net.inheritance;
